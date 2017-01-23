@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "ZfO0bvDS6WOAG+mKN90UAS+tuMA=",
+			"path": "github.com/pressly/chi",
+			"revision": "5a8c2b83d3dbb4628a361cf2e8355a9ae6eba5a4",
+			"revisionTime": "2016-12-16T23:31:48Z"
+		}
+	],
+	"rootPath": "github.com/imikod/termux-api-server"
+}
