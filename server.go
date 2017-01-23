@@ -210,8 +210,8 @@ func main() {
 	r.Use(cors)
 
 	r.Get("/", func(w http.ResponseWriter, r *http.Request) {
-        w.Write([]byte(index))
-    })
+		w.Write([]byte(index))
+	})
 	r.Get("/camera-photo", camera)
 	r.Get("/notification", notification)
 	r.Get("/sms-send", sendSMS)
